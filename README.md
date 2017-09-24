@@ -1,0 +1,2 @@
+# learnjs
+JavaScript training repository
